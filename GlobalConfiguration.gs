@@ -1,7 +1,7 @@
 /**
  * Site	TEL - MON
 Shard	Data
-RCR sheet	1vNFkgSc3DEDN3hz48M4o9UKoYGO-OCctKpwLSEuw3fA
+RCR sheet	<id>
 Specialization Group Distribute	Enable
 Assign Reviewer Distribute	Enable
 Absolute Balance Distribute	Disenable
@@ -15,7 +15,7 @@ const SHARD_DATA = 'Data';
 const SHARD_INFRA = 'Infra';
 const SHARD_PLATFORM = 'Platform';
 const SHARD_NETWORKING = 'Networking'
-// RCR_SHEET = '1vNFkgSc3DEDN3hz48M4o9UKoYGO-OCctKpwLSEuw3fA';
+// RCR_SHEET = '<rcr sheet id>';
 SITE = 'tel-mon';
 SHARD = SHARD_DATA;
 ENABLE_SPECIALIZATION_DISTIRBUTE = true;
@@ -28,7 +28,7 @@ EXPORT_RCR = false;
 MAX_CASE_AGE = 3;
 MIN_CASE_AGE = 0;
 
-SCRUB_SITES = 'tel-mon, tel-mnl';
+SCRUB_SITES = '<sites>';
 
 HISTORY_DURATION = 3;
 
